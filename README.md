@@ -162,10 +162,6 @@ AegisAi is built with a modular architecture, comprising the following key compo
   * Neo4j: For graph-based security analysis (if used).
   * Redis: For Celery broker and caching.
 
-## License
-
-AegisAi is released under the [Apache 2.0 License](LICENSE).
-
 ## Contributing
 
 We welcome contributions to AegisAi! If you'd like to contribute, please follow these steps:
