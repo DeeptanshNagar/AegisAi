@@ -1,6 +1,4 @@
-# Piaegis: Advanced SAST & DAST Powered by LLM Agents ⚔️🛡️
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Piaegis: Advanced SAST & DAST Powered by LLM Agents 
 
 **Piaegis** is an innovative security tool suite that leverages the power of Large Language Models (LLMs) to enhance Static and Dynamic Application Security Testing (SAST & DAST). It aims to provide developers and security professionals with intelligent vulnerability analysis, insightful reporting, and actionable remediation guidance, all within a streamlined and user-friendly interface.
 
