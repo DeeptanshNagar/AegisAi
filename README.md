@@ -177,7 +177,7 @@ We welcome contributions to AegisAi! If you'd like to contribute, please follow 
 
 ## Support and Contact
 
-For questions, issues, or feedback, please open an issue on the [GitHub repository](https://github.com/akash-mondal/AegisAi/issues).
+For questions, issues, or feedback, please open an issue on the [GitHub repository](https://github.com/DeeptanshNagar/AegisAi/issues).
 
 ---
 
