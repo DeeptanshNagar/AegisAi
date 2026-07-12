@@ -75,6 +75,7 @@ Edit the `.env` file with your preferred text editor and provide the necessary A
 ```env
 isDevelopmentMode=enabled
 ENV=development
+ANTHROPIC_API_KEY=<your-anthropic-key>         # API key for ClaudeAi
 OPENAI_API_KEY=<your-openai-key>         # API key for OpenAI (if using)
 GEMINI_API_KEY=<gemini-api-key>          # API key for Google Gemini
 ZAP_API_KEY=<zap client api>             # API key for OWASP ZAP API
@@ -88,7 +89,7 @@ BROKER_URL=redis://127.0.0.1:6379/0      # Celery broker URL
 CELERY_QUEUE_NAME=dev                    # Celery queue name
 defaultUsername=defaultuser              # Default username for the application
 PROJECT_PATH=projects                    # Path to store downloaded/cloned repositories
-LLM_PROVIDER=openrouter                  # LLM provider (e.g., openrouter, openai, gemini)
+LLM_PROVIDER=openrouter                  # LLM provider (e.g., anthropic, openrouter, openai, gemini)
 LLM_API_KEY=sk-or-your-key               # API key for the LLM provider
 LOW_REASONING_MODEL=openrouter/deepseek/deepseek-chat  # LLM model for low reasoning tasks
 HIGH_REASONING_MODEL=openrouter/deepseek/deepseek-chat # LLM model for high reasoning tasks
